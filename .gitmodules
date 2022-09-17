@@ -1,0 +1,3 @@
+[submodule "fV-SRN-Ensemble-Compression"]
+	path = fV-SRN-Ensemble-Compression
+	url = https://github.com/Bussler/fV-SRN-Ensemble-Compression.git
