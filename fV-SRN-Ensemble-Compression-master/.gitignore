@@ -1,0 +1,26 @@
+# C++
+bin/
+build/
+cmake-build-debug/
+
+# Python
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX
+*-eps-converted-to.pdf
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex
+*.tps
+
+# Results
+*.pygstyle
+*.pygtex
+*.csv
+
+# Git
+.idea/
